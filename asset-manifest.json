@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/webgoc/static/css/main.2f4efa09.css",
-    "main.js": "/webgoc/static/js/main.27f64b3d.js",
+    "main.css": "/webgoc/static/css/main.d8143055.css",
+    "main.js": "/webgoc/static/js/main.807cac44.js",
     "static/js/787.077064eb.chunk.js": "/webgoc/static/js/787.077064eb.chunk.js",
     "static/media/gencom.mp4": "/webgoc/static/media/gencom.1406447b519c9e10f3ab.mp4",
     "static/media/xd.jpg": "/webgoc/static/media/xd.74885b3efc74342128f3.jpg",
@@ -30,12 +30,12 @@
     "static/media/secondgen1.jpg": "/webgoc/static/media/secondgen1.74a1de80168ac9812fd3.jpg",
     "static/media/therdgenp.jpg": "/webgoc/static/media/therdgenp.1fa69455742216a70996.jpg",
     "index.html": "/webgoc/index.html",
-    "main.2f4efa09.css.map": "/webgoc/static/css/main.2f4efa09.css.map",
-    "main.27f64b3d.js.map": "/webgoc/static/js/main.27f64b3d.js.map",
+    "main.d8143055.css.map": "/webgoc/static/css/main.d8143055.css.map",
+    "main.807cac44.js.map": "/webgoc/static/js/main.807cac44.js.map",
     "787.077064eb.chunk.js.map": "/webgoc/static/js/787.077064eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f4efa09.css",
-    "static/js/main.27f64b3d.js"
+    "static/css/main.d8143055.css",
+    "static/js/main.807cac44.js"
   ]
 }
