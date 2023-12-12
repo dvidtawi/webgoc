@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/webgoc/static/css/main.2f4efa09.css",
+    "main.js": "/webgoc/static/js/main.e406eb54.js",
+    "static/js/787.077064eb.chunk.js": "/webgoc/static/js/787.077064eb.chunk.js",
+    "static/media/gencom.mp4": "/webgoc/static/media/gencom.1406447b519c9e10f3ab.mp4",
+    "static/media/xd.jpg": "/webgoc/static/media/xd.74885b3efc74342128f3.jpg",
+    "static/media/firstgen3.jpg": "/webgoc/static/media/firstgen3.2873762f5535c039cc20.jpg",
+    "static/media/timeline.jpg": "/webgoc/static/media/timeline.be7d543d794ba306dd99.jpg",
+    "static/media/programador1.jpg": "/webgoc/static/media/programador1.82e8bcf0f271035b8ffd.jpg",
+    "static/media/fortygenp.jpg": "/webgoc/static/media/fortygenp.0795e522c2a30f2c1b78.jpg",
+    "static/media/secondgen3.jpg": "/webgoc/static/media/secondgen3.c18bc6f3c1c3ebe06cce.jpg",
+    "static/media/firstgen1.jpg": "/webgoc/static/media/firstgen1.e350732e07e14d393f66.jpg",
+    "static/media/firstgen2.jpg": "/webgoc/static/media/firstgen2.6c3a2c812eb523f2e199.jpg",
+    "static/media/generacioncompus.jpg": "/webgoc/static/media/generacioncompus.df05fd33be408a32f799.jpg",
+    "static/media/therdgen3.jpg": "/webgoc/static/media/therdgen3.60d424c67f0c09cd53d2.jpg",
+    "static/media/fortygen2.jpg": "/webgoc/static/media/fortygen2.d98db13731758035f65e.jpg",
+    "static/media/CentraNo2-Bold.ttf": "/webgoc/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/webgoc/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/webgoc/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/therdgen1.jpg": "/webgoc/static/media/therdgen1.6ccbe05a8eb3f763caf1.jpg",
+    "static/media/therdgen2.jpg": "/webgoc/static/media/therdgen2.bdc8b11a2aed00cada7c.jpg",
+    "static/media/lastgent1.jpg": "/webgoc/static/media/lastgent1.9fe83f24a118998e87cf.jpg",
+    "static/media/lastgen3.jpg": "/webgoc/static/media/lastgen3.7e6bb5deac88f1ed7c71.jpg",
+    "static/media/secondgenp.jpg": "/webgoc/static/media/secondgenp.d4b5a05607423971b775.jpg",
+    "static/media/secondgen2.jpg": "/webgoc/static/media/secondgen2.98976188c1ee5a15a729.jpg",
+    "static/media/fortygen1.jpg": "/webgoc/static/media/fortygen1.d5ebbcbfddda32251371.jpg",
+    "static/media/fortygen3.jpg": "/webgoc/static/media/fortygen3.c9fca411d3c8d58f1cfd.jpg",
+    "static/media/lastgen2.jpg": "/webgoc/static/media/lastgen2.d7e2778129c04d2641c4.jpg",
+    "static/media/secondgen1.jpg": "/webgoc/static/media/secondgen1.74a1de80168ac9812fd3.jpg",
+    "static/media/therdgenp.jpg": "/webgoc/static/media/therdgenp.1fa69455742216a70996.jpg",
+    "index.html": "/webgoc/index.html",
+    "main.2f4efa09.css.map": "/webgoc/static/css/main.2f4efa09.css.map",
+    "main.e406eb54.js.map": "/webgoc/static/js/main.e406eb54.js.map",
+    "787.077064eb.chunk.js.map": "/webgoc/static/js/787.077064eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f4efa09.css",
+    "static/js/main.e406eb54.js"
+  ]
+}
